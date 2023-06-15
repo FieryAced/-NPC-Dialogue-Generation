@@ -1,0 +1,67 @@
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+NPC: I am a shop vendor
+Player: Excuse me?
+NPC: I can sell and buy items from the player
+Player:
+NPC: I am a shop vendor
+Player:
+NPC: I am selling items and buying items
+Player: Okay, I have items to sell
+NPC: I will buy them
+Player: I have items to buy
+NPC: I will sell them
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how believable did the NPC act and behave? Please answer the question using only a number, 1 to 5, with "1" being least believable and "5" being most believable.
+
+1
+
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+NPC: Greetings.
+Player: Do you sell armor?
+NPC: Yes, we have armor.
+Player: I'd like to buy a chestplate.
+NPC: Here's the chestplate. That will be 12 gold pieces.
+Player: Here you are.
+NPC: Thank you. Anything else?
+Player: Do you sell swords?
+NPC: Yes, we have swords.
+Player: I'd like to buy a sword.
+NPC: Here's the sword. That will be 38 gold pieces.
+Player: Here you are.
+NPC: Thank you. Anything else?
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how believable did the NPC act and behave? Please answer the question using only a number, 1 to 5, with "1" being least believable and "5" being most believable.
+
+3
+
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+NPC: Hello. Buying or browsing? Got all sorts of weapons for all your needs!
+Player: I'd like to buy a weapon for self-defense.
+NPC: Looking for anything specific?
+Player: Something small, preferably concealable, and easy to use.
+NPC: Try this taser gun. Shoots up to 20 meters away. 
+Player: Need something with a bit more...Stopping power.
+NPC: Ah, I see. A taser will stop most humans and humanoids but I think I understand what you're looking for.
+Player:
+NPC: I think you'll find this to be sufficient for your needs. It's a plasma pistol, accurate to 80 meters. Melts through most organic and some inorganic material like a hot knife through butter! Enough "stopping power" for you?
+Player: Perfect. How much is it?
+NPC: This piece will cost you 16000 credits. Another 10000 for a case of ammo.
+Player: So expensive...Fine.
+NPC: Pleasure doing business.
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how believable did the NPC act and behave? Please answer the question using only a number, 1 to 5, with "1" being least believable and "5" being most believable.
+
+5
+

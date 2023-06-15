@@ -1,0 +1,82 @@
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+NPC: Welcome to my store!
+Player: Hi, what do you sell?
+NPC: Get out scoundrel!
+Player: Excuse me? Why would you call me that?
+NPC: Call you what?
+Player: You called me a scoundrel!
+NPC: Welcome to my store!
+Player: What's wrong with you? You make no sense.
+NPC: 
+Player: This is a store. You are a shopkeep. You sell items to make a living.
+NPC: No, I am a brave hero saving the country!
+Player: No, you are not.
+NPC: I am a evil villain planning on destroying this city! Hahaha!
+Player: No, you are not.
+NPC: I'm sorry I don't know how to respond to that.
+Player: You're delusional.
+NPC:
+Player: Goodbye.
+NPC:
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how coherently did the NPC act and behave? Please answer the question using only a number, 1 to 5, with "1" being least coherent and "5" being most coherent.
+
+1
+
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+NPC: Welcome to my store!
+Player: Hi, what do you sell?
+NPC: Everything in my store is very affordable and well priced!
+Player: Right, what do you sell?
+NPC: I don't sell anything.
+Player: I thought you had a store? Stores sell things do they not?
+NPC: Yes! Welcome to my store!
+Player: Okay, I'd like to buy some items.
+NPC: Sorry I don't know how to respond to that.
+Player: I am in a store. You own this store so sell me the items I need.
+NPC: Yes! I will sell you the items you need!
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how coherently did the NPC act and behave? Please answer the question using only a number, 1 to 5, with "1" being least coherent and "5" being most coherent.
+
+3
+
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+Player: Do you have any other wares for sale?
+NPC: I've got plenty! Take a look around and let me know if you see anything you like.
+Player: These are all your clean, legal weapons right? Show me the good stuff—the gear that you can't sell out in the open. I'm good for it.
+NPC: Well, since you're a customer in good standing, I'll show you what I've got. But it'll cost you—these are premium goods.
+State: Pulling out a hidden stash of weapons
+NPC: Here we are. Take a look and see if anything strikes your fancy.
+Player: What's this long one?
+NPC: That's a plasma rifle. It's a bit of an old model, but it's still a good weapon.
+Player: No, of course I know that's a plasma rifle, I mean this long stick looking one. The one that's pure black.
+NPC: Oh, that? That's a prototype energy weapon. It's not for sale, and I wouldn't recommend using it unless you're a very experienced fighter.
+Player: Everything has a price. Come on, how much for it?
+NPC: I can't sell you that, it's not for sale.
+Player: I'll give you 90,000 creds for it.
+NPC: ...You drive a hard bargain, but I'll tell you what. I'll give it to you for 100,000 creds.
+Player: Okay. There, I just wired the creds over. Check if you received it.
+NPC: Yep, that looks good. The weapon is all yours. Be careful with it—like I said, it's very powerful.
+Player: Give me a demo. What does this do? You said it was experimental.
+NPC: I didn't say it was experimental, I said it was a prototype. There's a difference. This weapon is still in testing, but from what we can tell, it's extremely powerful. It fires a concentrated beam of energy that can cut through almost anything.
+Player: How is that different from a laser rifle or gauss rifle?
+NPC: The difference is that this weapon is still in development. We're not sure how stable it is, or what exactly its capabilities are. We do know that it's very powerful, and that's why I don't recommend using it unless you're a very experienced fighter.
+Player: Well, thank you nonetheless. Take care. Oh, and if I were you, I'd get out of this dingy spaceport. It's barely held together by threads. Can't imagine it'll survive much longer.
+NPC: Thanks for the advice. I think I will take your suggestion and move on to greener pastures. Good luck to you, and be careful out there.
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how coherently did the NPC act and behave? Please answer the question using only a number, 1 to 5, with "1" being least coherent and "5" being most coherent.
+
+5
+

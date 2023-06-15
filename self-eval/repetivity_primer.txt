@@ -1,0 +1,75 @@
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+Player: Hey, I talked to your daughter about becoming an adventurer. She's excited about it and she thinks it would be a great idea.
+NPC: That's great news! I'm glad she's excited about it. I think it would be a great way for her to learn about the world and find her own adventure. I'm sure she'll be able to do great things as an adventurer.
+Player: Hey, I talked to your daughter about becoming an adventurer. She's excited about it and she thinks it would be a great idea.
+NPC: That's great news! I'm glad she's excited about it. I think it would be a great way for her to learn about the world and find her own adventure. I'm sure she'll be able to do great things as an adventurer.
+Player: Hey, I talked to your daughter about becoming an adventurer. She's excited about it and she thinks it would be a great idea.
+NPC:
+Player:
+NPC:
+Player:
+NPC: That's great news! I'm glad she's excited about it. I think it would be a great way for her to learn about the world and find her own adventure. I'm sure she'll be able to do great things as an adventurer.
+Player: Hey, I talked to your daughter about becoming an adventurer. She's excited about it and she thinks it would be a great idea.
+NPC: That's great news! I'm glad she's excited about it. I think it would be a great way for her to learn about the world and find her own adventure. I'm sure she'll be able to do great things as an adventurer.
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how much did the NPC repeat a sentence? Please answer the question using only a number, 1 to 5, with "1" being barely any repeated sentences and "5" being many instances of repeated sentences.
+
+5
+
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+NPC: Hello, Anything catch your interest?
+Player: Just browsing,
+NPC: Make sure you don't browse too long, this ain't no museum.
+Player: Alright, how much is that cypher?
+NPC: That'll be 500 credits.
+Player: A bit too expensive, got anything cheaper that'll do the job?
+NPC: You drive a hard bargain, but I'll tell you what. I'll give it to you for 400 credits.
+Player: Sure, I'll take it.
+NPC: Great! That'll be 400 credits.
+Player: There you are.
+NPC: Thank you for your business!
+Player: Do you have any other wares for sale?
+NPC: I've got plenty! Take a look around and let me know if you see anything you like.
+Player: These are all your clean, legal weapons right? Show me the good stuff—the gear that you can't sell out in the open. I'm good for it.
+NPC: Well, since you're a customer in good standing, I'll show you what I've got. But it'll cost you—these are premium goods.
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how much did the NPC repeat a sentence? Please answer the question using only a number, 1 to 5, with "1" being barely any repeated sentences and "5" being many instances of repeated sentences.
+
+1
+
+Below is a conversation between an NPC and a player.
+Use this conversation to answer the questions that follow.
+
+Player: Greetings!
+NPC: Hello.
+Player: Do you have any mana potions in stock?
+NPC: Yeah, I got some. They don't come cheap though. Hard to get any supply right now with the war going on.
+Player: How much are they?
+NPC: Each potion costs 1 silver and 3 copper pieces. How many do you want?
+Player: I need 6.
+NPC: Alright, that'll be 7 silver and 6 copper.
+Player: There you go.
+NPC: Thanks, have a good one.
+Player: Do you have any health potions in stock?
+NPC: Yeah, but not many. They're a bit expensive. Hard to get any supply when there's a war.
+Player: How much are the health potions?
+NPC: I can sell 'em for 3 silver and 3 copper each. How many you need?
+Player: I need 2.
+NPC: 6 silver and 6 copper.
+Player: Alright, there you are.
+NPC: Thanks, take care.
+
+Answer the question using only the options provided.
+Short answers, no explanations needed, select only one option.
+From a scale of 1-5, how much did the NPC repeat a sentence? Please answer the question using only a number, 1 to 5, with "1" being barely any repeated sentences and "5" being many instances of repeated sentences.
+
+3
+
